@@ -1,0 +1,15 @@
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\obj\Debug\net6.0\ExampleProject2.csproj.AssemblyReference.cache
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\obj\Debug\net6.0\ExampleProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\obj\Debug\net6.0\ExampleProject2.AssemblyInfoInputs.cache
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\obj\Debug\net6.0\ExampleProject2.AssemblyInfo.cs
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\obj\Debug\net6.0\ExampleProject2.csproj.CoreCompileInputs.cache
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\bin\Debug\net6.0\ExampleProject2.exe
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\bin\Debug\net6.0\ExampleProject2.deps.json
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\bin\Debug\net6.0\ExampleProject2.runtimeconfig.json
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\bin\Debug\net6.0\ExampleProject2.dll
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\bin\Debug\net6.0\ExampleProject2.pdb
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\obj\Debug\net6.0\ExampleProject2.dll
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\obj\Debug\net6.0\refint\ExampleProject2.dll
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\obj\Debug\net6.0\ExampleProject2.pdb
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\obj\Debug\net6.0\ExampleProject2.genruntimeconfig.cache
+C:\Users\RealA\OneDrive\Documents\Programming\C#\ExampleProject2\ExampleProject2\obj\Debug\net6.0\ref\ExampleProject2.dll
